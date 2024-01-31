@@ -1,1 +1,2 @@
 # init-git
+Jerome BOUHET
